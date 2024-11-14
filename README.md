@@ -21,21 +21,21 @@ The web application utilizes the following machine learning models for tumor pre
 
 ## Resources
 
--[**Kaggle Dataset**](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- [**Kaggle Dataset**](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
--[**What is a Neural Network?**](https://www.youtube.com/watch?v=aircAruvnKk)
+- [**What is a Neural Network?**](https://www.youtube.com/watch?v=aircAruvnKk)
 
--[**How Neural Networks Learn**](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [**How Neural Networks Learn**](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
--[**What is a Convolution**](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+- [**What is a Convolution**](https://www.youtube.com/watch?v=KuXjwB4LzSA)
 
--[**Interactive CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
+- [**Interactive CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
 
--[**How Tesla uses Neural Networks to Power Self Driving**](https://www.youtube.com/watch?v=FnFksQo-yEY)
+- [**How Tesla uses Neural Networks to Power Self Driving**](https://www.youtube.com/watch?v=FnFksQo-yEY)
 
--[**What is Transfer Learning**](https://builtin.com/data-science/transfer-learning)
+- [**What is Transfer Learning**](https://builtin.com/data-science/transfer-learning)
 
--[**Saliency Map Implementation**](https://medium.com/@bijil.subhash/explainable-ai-saliency-maps-89098e230100)
+- [**Saliency Map Implementation**](https://medium.com/@bijil.subhash/explainable-ai-saliency-maps-89098e230100)
 
 
 
