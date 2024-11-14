@@ -2,7 +2,7 @@
 Week 3: Brain Tumor Classification with Neural Networks.
 In this project, you will learn how to train neural networks to classify tumors in brain MRI scans. You will learn about how to construct different neural network architectures through transfer learning and custom convolutional layers, and use the Gemini 1.5 Flash model to generate explanations for the model's predictions.
 [Link to Brain Tumor MRI Dataset on Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
-## Brain Tumor MRI Dataset, a dataset for classify brain tumors. About Dataset
+## About Dataset: Brain Tumor MRI Dataset, a dataset for classify brain tumors
 ### What is a brain tumor?
 A brain tumor is a collection, or mass, of abnormal cells in your brain. Your skull, which encloses your brain, is very rigid. Any growth inside such a restricted space can cause problems. Brain tumors can be cancerous (malignant) or noncancerous (benign). When benign or malignant tumors grow, they can cause the pressure inside your skull to increase. This can cause brain damage, and it can be life-threatening.
 ### The importance of the subject
