@@ -9,7 +9,7 @@ A brain tumor is a collection, or mass, of abnormal cells in your brain. Your sk
 Early detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore.
 
 ## Step for run
-You can run this [*Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks.ipynb*]() in your Google Colab account (or you can run in jupyter notebook local, kaggle notebook and so on).
+You can run this ```[*Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks.ipynb*]()```  in your Google Colab account (or you can run in jupyter notebook local, kaggle notebook and so on).
 
 ## Web application with streamlit
 I use Ngrok api key for web application with streamlit and I run in Google Colab the web application with streamlit.
