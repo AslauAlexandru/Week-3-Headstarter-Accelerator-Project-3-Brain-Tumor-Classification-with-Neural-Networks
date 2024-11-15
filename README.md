@@ -11,7 +11,7 @@ Early detection and classification of brain tumors is an important research doma
 ## Step for run
 You can run this [*Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks.ipynb*]() in your Google Colab account (or you can run in jupyter notebook local, kaggle notebook and so on).
 If you don't have GPU ram memory in your Google Colab: first run [*Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks.ipynb*](https://github.com/AslauAlexandru/Week-3-Headstarter-Accelerator-Project-3-Brain-Tumor-Classification-with-Neural-Networks/blob/main/Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks.ipynb), download your ```xception_model.weights.h5``` and ```cnn_model.h5``` (also you can do more files like ```.h5``` for web app), upload to your Google Drive (or storage like Google Drive) and second acces your files from Google Drive to Google Colab [*Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks_Part_2_Streamlit_Web_App_.ipynb
-*]()
+*](https://github.com/AslauAlexandru/Week-3-Headstarter-Accelerator-Project-3-Brain-Tumor-Classification-with-Neural-Networks/blob/main/Week_3_Headstarter_Accelerator_Project_3_Brain_Tumor_Classification_with_Neural_Networks_Part_2_Streamlit_Web_App_.ipynb).
 
 ## Web application with streamlit
 I use Ngrok api key for web application with streamlit and I run in Google Colab the web application with streamlit.
