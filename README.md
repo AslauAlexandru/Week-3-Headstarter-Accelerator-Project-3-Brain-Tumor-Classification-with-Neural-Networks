@@ -19,6 +19,9 @@ The web application utilizes the following machine learning models for tumor pre
 - **Custom CNN**
 - **you can use other Deep Learning models like**: **ResNet50**, **various customs CNNs**, **EfficientNet**, **MobileNet**, **VGG19** and so on.
 
+In the Google Colab notebooks you don't see this completely:
+
+
 ## Resources
 
 - [**Kaggle Dataset**](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
