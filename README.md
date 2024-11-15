@@ -22,38 +22,35 @@ The web application utilizes the following machine learning models for tumor pre
 In the Google Colab notebooks you don't see this completely:
 
 ```python
-# You can try in google colab or jupyter notebook or other environment
 
-import requests
-import json
+st.write("## Classification Results")
 
-# URL of your deployed model
-url = "https://churn-ml-models.onrender.com/predict"
+    result_container = st.container()
+    result_container = st.container()
 
-# Sample customer data
-customer_data = {
-    "CreditScore": 200,
-    "Geography": "France",
-    "Gender": "Male",
-    "Age": 35,
-    "Tenure": 0,
-    "Balance": 0,
-    "NumOfProducts": 3,
-    "HasCrCard": 1,
-    "IsActiveMember": 0,
-    "EstimatedSalary": 8
-}
+    result_container.markdown(
+    f"""
+    <div style="background-color: #000000; color: #ffffff; padding: 30px; border-radius: 15px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+            <div style="flex: 1; text-align: center;">
+                <h3 style="color: #ffffff; margin-bottom: 10px; font-size: 20px;">Prediction</h3>
+                <p style="font-size: 36px; font-weight: 800; color: #FF0000; margin: 0;">
+                    {result}
+                </p>
+            </div>
+            <div style="width: 2px; height: 80px; background-color: #ffffff; margin: 0 20px;"></div>
+            <div style="flex: 1; text-align: center;">
+                <h3 style="color: #ffffff; margin-bottom: 10px; font-size: 20px;">Confidence</h3>
+                <p style="font-size: 36px; font-weight: 800; color: #2196F3; margin: 0;">
+                    {prediction[0][class_index]:.4%}
+                </p>
+            </div>
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True
+    )
 
-# Send POST request
-response = requests.post(url, json=customer_data)
-
-# Check if the request was successful
-if response.status_code == 200:
-    # Parse the JSON response
-    result = response.json()
-    print(result)
-else:
-    print("Error:", response.status_code, response.text)
 ```
 
 ## Resources
