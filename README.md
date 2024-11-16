@@ -21,6 +21,7 @@ The web application utilizes the following machine learning models for tumor pre
 - **Custom CNN**
 - **you can use other Deep Learning models like**: **ResNet50**, **various customs CNNs**, **EfficientNet**, **MobileNet**, **VGG19** and so on.
 
+
 **Interface**:
 ![Interaface](https://github.com/user-attachments/assets/89f76a39-078f-47c3-acef-b153e03aab07)
 
