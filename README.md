@@ -22,9 +22,7 @@ The web application utilizes the following machine learning models for tumor pre
 - **you can use other Deep Learning models like**: **ResNet50**, **various customs CNNs**, **EfficientNet**, **MobileNet**, **VGG19** and so on.
 
 Interface:
-![Interaface](
-)
-![image](https://github.com/user-attachments/assets/89f76a39-078f-47c3-acef-b153e03aab07)
+![Interaface](https://github.com/user-attachments/assets/89f76a39-078f-47c3-acef-b153e03aab07)
 
 
 In the Google Colab notebooks in GitHub, you don't see this completely for web application with streamlit:
